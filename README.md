@@ -1,4 +1,4 @@
-# Deployed Calculator App on Netlify: https://quickmathmate.netlify.app/
+## Link to Deployed Calculator App on Netlify: https://quickmathmate.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
